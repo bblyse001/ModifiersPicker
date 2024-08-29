@@ -1,0 +1,7 @@
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\bin\Debug\ModifiersPicker.exe.config
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\bin\Debug\ModifiersPicker.exe
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\bin\Debug\ModifiersPicker.pdb
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\obj\Debug\ModifiersPicker.csproj.AssemblyReference.cache
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\obj\Debug\ModifiersPicker.csproj.CoreCompileInputs.cache
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\obj\Debug\ModifiersPicker.exe
+C:\Users\ChinaHater\source\repos\ModifiersPicker\ModifiersPicker\obj\Debug\ModifiersPicker.pdb
